@@ -1,0 +1,51 @@
+body {
+    background-image: url("https://image.api.playstation.com/vulcan/ap/rnd/202206/2202/36w8bdJtuteaHnt1ZRMYACKd.jpg");
+    
+    }
+
+    ul{
+        list-style-type:square;
+        }
+        li{
+         color:rgb(123, 0, 255);
+        }
+        a{
+            background:cyan;
+            color:darkblue;
+            display: block;
+            font: bold 14px impact;
+            padding: 10px 25px;
+            text-decoration: darkorchid;
+            text-align: center;
+        }
+        body {
+background-image: url("https://res.cloudinary.com/dfog0e294/image/upload/v1540448570/web-design/spider_man.jpg");
+background-repeat: no-repeat;
+background-position: left top;
+background-attachment: fixed;
+background-size: cover;
+color: white;
+}
+     img {
+    border-radius: 50px 50px 50px 50px;
+    border: 6px solid springgreen;
+     }
+        p {
+            border: 10px solid lightblue;
+}
+div {
+padding-top: 50px;
+padding-right: 30px;
+padding-bottom: 50px;
+padding-left: 80px;
+}
+  body{
+background-color: pink;
+text-align: center;
+font-family: verdana;
+}
+h2{
+            border: 10px solid blue;
+            border-color: yellow lightblue;
+            background-color: Black;
+} 
